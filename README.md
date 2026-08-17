@@ -2,7 +2,7 @@
 # Null
 
 <div align="center">
-  <img src="img/Null.png" alt="This is soo useless but oh well" width="240" />
+  <img src="img/NullV2-NBG.png" alt="This is soo useless but oh well" width="240" />
 </div>
 
 <!-- Section splitter comments because clean freak -->
